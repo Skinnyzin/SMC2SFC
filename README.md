@@ -1,4 +1,4 @@
-readme_content = """# 🎮 Conversor SMC para SFC (Interface Gráfica)
+SMC2SFC: Um Conversor SMC para SFC (Interface Gráfica).
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange?style=flat-square)
